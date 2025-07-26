@@ -26,7 +26,6 @@ The application uses an `ArrayList` to store tasks, and a `Scanner` to handle us
 
 ### How to Run
 1. Compile the code:
-   ```bash
-      javac ToDoListManager.java Task.java
+   javac ToDoListManager.java Task.java
 2.  Run the program:
      java ToDoListManager
